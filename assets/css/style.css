@@ -116,3 +116,11 @@ h1, h2 {
     margin: 0 auto;
     background-color: green;
 }
+
+.left-about {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
